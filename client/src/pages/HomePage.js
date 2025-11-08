@@ -36,7 +36,7 @@ const HomePage = () => {
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-fire-red via-fire-orange to-fire-yellow text-white py-20">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl md:text-7xl font-bold mb-4">🎆 Firecracker Paradise</h1>
+          <h1 className="text-5xl md:text-7xl font-bold mb-4">🎆 Firecracker Store</h1>
           <p className="text-xl md:text-2xl mb-8">Light up your celebrations with premium firecrackers</p>
           <Link
             to="/category/all"
